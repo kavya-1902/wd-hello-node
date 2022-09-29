@@ -7,5 +7,20 @@
   },
   "author": "",
   "license": "ISC",
-  "description": ""
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kavya-1902/wd-hello-node.git"
+  },
+  "bugs": {
+    "url": "https://github.com/kavya-1902/wd-hello-node/issues"
+  },
+  "homepage": "https://github.com/kavya-1902/wd-hello-node#readme",
+  "description": "",
+  "devDependencies": {
+    "eslint": "^8.24.0",
+    "eslint-config-standard": "^17.0.0",
+    "eslint-plugin-import": "^2.26.0",
+    "eslint-plugin-n": "^15.3.0",
+    "eslint-plugin-promise": "^6.0.1"
+  }
 }
